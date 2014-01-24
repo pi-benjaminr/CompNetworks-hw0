@@ -6,7 +6,7 @@ import android.util.Log;
 import android.view.Menu;
 
 public class MainActivity extends Activity {
-
+//testing
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		Log.i("homework", "onCreate called");
